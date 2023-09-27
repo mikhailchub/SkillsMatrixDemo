@@ -6,6 +6,7 @@
 QA Tech Skills Matrix
 =====================
 Welcome to QA Tech Skills Matrix demo's documentation!
+Check your QA skills here.
 
 ========================== ================================================================================================= ========== ========= ========= ========= ========= 
 Categories                 Category description                                                                                 Trainee    Junior    Middle    Senior    Expert  
