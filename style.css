@@ -1,0 +1,15 @@
+/* Set default font family and size */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Center the main heading */
+  h1 {
+    text-align: center;
+  }
+  
+  /* Add some padding to the paragraphs */
+  p {
+    padding: 10px;
+  }
